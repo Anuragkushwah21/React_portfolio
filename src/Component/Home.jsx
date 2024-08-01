@@ -14,7 +14,7 @@ function Home() {
           <h2 className="bio-title">About Me</h2>
           <h4>Anurag Kushwah - Web Developer</h4>
           <p className="bio-text">
-            Meet Anurag Kushwah, your go-to web developer for transforming ideas
+            Meet Anurag Kushwah,your go-to web developer for transforming ideas
             into digital brilliance. With expertise in HTML, CSS, and
             JavaScript, Anurag crafts visually stunning and functionally
             seamless websites. A problem solver and creative force, he ensures
